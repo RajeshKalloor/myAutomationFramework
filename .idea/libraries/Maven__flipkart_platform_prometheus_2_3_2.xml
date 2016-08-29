@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: flipkart.platform:prometheus:2.3.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/flipkart/platform/prometheus/2.3.2/prometheus-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/flipkart/platform/prometheus/2.3.2/prometheus-2.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/flipkart/platform/prometheus/2.3.2/prometheus-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+/Users/rajesh.kalloor/automation/myAutomationFramework/src/main/java/fk/restApi/CasClient.java
+/Users/rajesh.kalloor/automation/myAutomationFramework/src/main/java/fk/clients/ApiAction.java
+/Users/rajesh.kalloor/automation/myAutomationFramework/src/main/java/fk/exceptions/CASClientException.java
+/Users/rajesh.kalloor/automation/myAutomationFramework/src/main/java/fk/constants/Browser.java
+/Users/rajesh.kalloor/automation/myAutomationFramework/src/main/java/fk/restApi/HttpAuthClient.java
+/Users/rajesh.kalloor/automation/myAutomationFramework/src/main/java/fk/common/WebDriverManager.java
+/Users/rajesh.kalloor/automation/myAutomationFramework/src/main/java/fk/configuration/Configuration.java
+/Users/rajesh.kalloor/automation/myAutomationFramework/src/main/java/fk/exceptions/WebServiceException.java
+/Users/rajesh.kalloor/automation/myAutomationFramework/src/main/java/fk/implementations/GmailPage.java
+/Users/rajesh.kalloor/automation/myAutomationFramework/src/main/java/fk/common/Context.java
+/Users/rajesh.kalloor/automation/myAutomationFramework/src/main/java/fk/configuration/WebDriverConfig.java
+/Users/rajesh.kalloor/automation/myAutomationFramework/src/main/java/fk/core/BaseSetup.java
